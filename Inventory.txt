@@ -1,0 +1,55 @@
+   
+
+
+                                                     Available Per Day Stock
+                                               
+     
+                     Appetizer Dishes                                           Entree Dishes
+       DISHES                                 Quan.             DISHES                                    Quan.
+
+| 1  | Bruschetta                          |  500  |    |  1 | Grilled Steak with Roasted Vegetables   |  500  |
+| 2  | Caprese Salad                       |  200  |    |  2 | Baked Salmon with Lemon-Dill Sauce      |  430  |
+| 3  | Spinach and Artichoke Dip           |  350  |    |  3 | Chicken Parmesan with Pasta             |  230  |
+| 4  | Stuffed Mushrooms                   |  150  |    |  4 | Vegetarian Stir-Fry with Tofu           |  560  |
+| 5  | Shrimp Cocktail                     |  200  |    |  5 | Beef Tenderloin with Red Wine Reduction |  890  |
+| 6  | Chicken Satay                       |  700  |    |  6 | Shrimp Scampi with Linguine             |  200  |
+| 7  | Deviled Eggs                        |  800  |    |  7 | Roasted Chicken with Herbs              |  900  |
+| 8  | Mini Quiches                        |  220  |    |  8 | Eggplant Parmesan with Marinara Sauce   |  780  |
+| 9  | Bacon-Wrapped Dates                 |  300  |    |  9 | Pork Tenderloin with Apple Chutney      |  350  |
+| 10 | Nachos with Guacamole and Salsa     |  250  |    | 10 | Pan-Seared Halibut with Mango Salsa     |  450  |
+| 11 | Spring Rolls                        |  560  |    | 11 | Beef Stroganoff with Egg Noodles        |  220  |
+| 12 | Mozzarella Sticks                   |  120  |    | 12 | Stuffed Bell Peppers with Quinoa        |  670  |
+| 13 | Garlic Bread                        |  290  |    | 13 | Spaghetti Carbonara with Pancetta       |  120  |
+| 14 | Antipasto Platter                   |  350  |    | 14 | Lemon Herb Roasted Chicken with Mashed  |  450  |
+| 15 | Pigs in a Blanket                   |  230  |    | 15 | Vegetable Curry with Basmati Rice       |  350  |
+| 16 | Buffalo Chicken Wings               |  500  |    | 16 | Honey Glazed Baked Ham with potato      |  300  |
+| 17 | Crab Cakes                          |  900  |    | 17 | Grilled Swordfish with Chimichurri      |  300  |
+| 18 | Tomato Bruschetta                   |  400  |    | 18 | Mushroom Risotto with Truffle Oil       |  400  |
+| 19 | Mini Meatballs                      |  690  |    | 19 | Tandoori Chicken with Naan Bread        |  300  |
+| 20 | Cheese and Charcuterie Board        |  230  |    | 20 | Lobster Thermidor with Garlic Butter    |  200  |
+
+
+                                                    Desert Dishes 
+                                  DISHES                                          Quan. 
+
+                           | 1  | Chocolate Cake                                |  500  |
+                           | 3  | Crem blue                                     |  230  |
+                           | 2  | Apple Pie                                     |  430  |
+                           | 4  | Cheesecake                                    |  560  |
+                           | 5  | Tiramisu                                      |  890  |
+                           | 6  | Ice Cream Sundae                              |  200  |
+                           | 7  | Panna Cotta                                   |  900  |
+                           | 8  | Fruit Tart                                    |  780  |
+                           | 9  | Chocolate Mousse                              |  350  |
+                           | 10 | Cinnamon Roll                                 |  450  |
+                           | 11 | Key Lime Pie                                  |  220  |
+                           | 12 | Red Velvet Cupcake                            |  670  |
+                           | 13 | Bread Pudding                                 |  120  |
+                           | 14 | Strawberry Shortcake                          |  450  |
+                           | 15 | Churros with Chocolate Sauce                  |  750  |
+                           | 16 | Banoffee Pie                                  |  700  |
+                           | 17 | Lemon Bars                                    |  600  |
+                           | 18 | Coconut Macaroons                             |  400  |
+                           | 19 | Peach Cobbler                                 |  300  |
+                           | 20 | Brownies à la Mode                           |  200  |
+
